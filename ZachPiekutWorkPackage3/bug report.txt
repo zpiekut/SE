@@ -1,0 +1,110 @@
+Zach Piekut
+Bug Report
+
+
+
+Defect: Train not traversing red line
+Number: 1
+Tester: Danchen
+Date: 11/8
+Resolution: Fixed the traversal logic
+Resolution Date: 11/10
+Programmer Who Repaired: Zach
+Verification: Danchen
+Verification Date: 11/11
+
+Defect: Train getting stuck at switches
+Number: 2
+Tester: Danchen
+Date: 11/11
+Resolution: Changed the switch logic
+Resolution Date: 11/12
+Programmer Who Repaired: Zach
+Verification: Danchen
+Verification Date: 11/12
+
+Defect: Train grabbing new blocks too early
+Number: 3
+Tester: Zach
+Date: 11/25
+Resolution: Possible distance travelled into new block now accounted for
+Resolution Date: 11/25
+Programmer Who Repaired: Zach
+Verification: Alec
+Verification Date: 11/26
+
+Defect: Train moving faster than timestep
+Number: 4
+Tester: Zach
+Date: 11/25
+Resolution: Speed was updating at global speed multiple times per tick
+Resolution Date: 12/1
+Programmer Who Repaired: Junyang
+Verification: Zach
+Verification Date: 12/1
+
+Defect: Train not using MBO authority
+Number: 5
+Tester: Zach
+Date: 12/1
+Resolution: MBO update after train
+Resolution Date: 12/2
+Programmer Who Repaired: Junyang
+Verification: Zach
+Verification Date: 12/2
+
+Defect: Hard coding in train model
+Number: 6
+Tester: Junyang
+Date: 12/1
+Resolution: Cleaned up code
+Resolution Date: 12/5
+Programmer Who Repaired: Zach
+Verification: Zach/Junyang
+Verification Date: 12/12
+
+Defect: Train not using MBO authority
+Number: 7
+Tester: Zach
+Date: 12/11
+Resolution: MBO update after train
+Resolution Date: 12/11
+Programmer Who Repaired: Junyang
+Verification: Zach
+Verification Date: 12/11
+
+Defect: Train not slowing down from friction
+Number: 8
+Tester: Zach
+Date: 12/11
+Resolution: Friction was not being initialized
+Resolution Date: 12/11
+Programmer Who Repaired: Zach
+Verification: Junyang
+Verification Date: 12/11
+
+Defect: MBO authority units not accounted for
+Number: 9
+Tester: Zach
+Date: 12/11
+Resolution: Unit added to info block
+Resolution Date: 12/11
+Programmer Who Repaired: Junyang
+Verification: Zach
+Verification Date: 12/11
+
+Defect: Info block is null pointer
+Number: 10
+Tester: Xuke
+Date: 12/12
+Resolution: Will now keep old block if no new block
+Resolution Date: 12/12
+Programmer Who Repaired: Zach
+Verification: Xuke
+Verification Date: 12/12
+
+
+
+
+
+

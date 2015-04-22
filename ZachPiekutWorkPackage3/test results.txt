@@ -1,0 +1,176 @@
+Zach Piekut
+Train Model Test Plan/Results
+
+
+Test:	Toggle lights
+Expected Result:	Lights turn on and off with button press
+Actual Result:	Lights were turned on and off with button press
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: 	Test Passed
+
+Test:	Toggle doors
+Expected Result:	Doors open and close with button press
+Actual Result:	Doors were opened and closed with button press
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: 	Test Passed
+
+Test:	Input passenger number 
+Expected Result:	Passenger number can be stored and changed
+Actual Result:	Passenger input was accepted and stored correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: 	Test Passed
+
+Test:	Change temperature 
+Expected Result:	Tempurature can be stored and changed
+Actual Result:	Temperature was accepted and stored correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: 	Test Passed
+
+Test:	Train weight calculation
+Expected Result:	Weight is calculated correctly, accounting for passengers
+Actual Result:	Weight is calculated correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Speed calculation
+Expected Result:	Speed is calculated correctly, from power, gradient, weight, time interval
+Actual Result:	Weight is calculated correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Distance Update
+Expected Result:	Distance is updated correctly, based on speed, every time step
+Actual Result:	Distance is updated correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Friction
+Expected Result:	Train decelerates when no power/brake is applied
+Actual Result:	Train decelerates when no power/brake is applied
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Brake
+Expected Result:	Brake reduces acceleration rate when applied
+Actual Result:	Brake reduces acceleration rate when applied
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Emergency Brake
+Expected Result:	Emergency Brake reduces acceleration at a high rate and brings the train to a stop
+Actual Result:	Acceleration is reduced at the expected rate. Train is brought to a stop
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Engine Failure
+Expected Result:	During engine failure, train power is reduced to zero, the brake is applied, and when the train stops, the doors open
+Actual Result:	Power is 0. Brake applied. Doors open upon stop.
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Brake Failure
+Expected Result:	During brake failure, train power is reduced to zero, the emergency brake is applied, and when the train stops, the doors open
+Actual Result:	Power is 0. Emergency brake applied. Doors open upon stop.
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Set the line
+Expected Result:	Accepts the route map and a line number, and retrieves the first block of the specified line
+Actual Result:	Route and line accepted. Correct block retrieved for both red and greaan lines.
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Defined Line Check
+Expected Result:	Train will reject line numbers that do not have a defined line 
+Actual Result:	Non-defined lines are rejected
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Defined Line Check
+Expected Result:	Train will reject line numbers that do not have a defined line 
+Actual Result:	Non-defined lines are rejected
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Get Info
+Expected Result:	getInfoBlock() gets the current info block from CTC and returns it 
+Actual Result:	Correct block retrieved and returned
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	MBO Authority
+Expected Result:	Antenna retrieves authority in a safety critical way (checks twice to make sure value is the same)
+Actual Result:	Antenna gets authority. Checks to ensure consistancy/safety critical
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	MBO Speed
+Expected Result:	Antenna retrieves authorispeedty in a safety critical way (checks twice to make sure value is the same)
+Actual Result:	Antenna gets speed. Checks to ensure consistancy/safety critical
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Next Block
+Expected Result:	Next block is retrieved when the distance exceeds the length of current block
+Actual Result:	Next block is retrieved correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Station
+Expected Result:	When the block is retrieved, if it has a station, the station name is retrieved and stored
+Actual Result:	Station names retrieved correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Track Traversal 1
+Expected Result:	Train can retrieve the next block on the route
+Actual Result:	next block retrieved correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Track Traversal 2
+Expected Result:	Train can retrieve the previous block on the route
+Actual Result:	next block retrieved correctly
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+Test:	Track Switch
+Expected Result:	If there is a switch in the block, and its status is checked and the train takes the path switched to
+Actual Result:	Switches handled correctly 
+Tester: 	Zach
+Date: 	12/11/2013
+Notes: Test Passed
+
+
+
+
+
+
+
+
+
+
+
+

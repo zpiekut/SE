@@ -1,0 +1,3 @@
+Zach Piekut - Train Model Installation Guide
+
+run TrainModelUI.java, that is where main() is

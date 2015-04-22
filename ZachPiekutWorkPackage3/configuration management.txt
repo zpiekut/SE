@@ -1,0 +1,737 @@
+The git log of the whole project.
+
+junyang huang
+
+
+commit 1b055b0bceb28e2a29eedfe4940c20147ee3110f
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Thu Dec 12 17:14:12 2013 -0500
+
+    station bug is fixed
+
+commit e0a9d7cfb9080dd07048a155021856f5d8c615fd
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Thu Dec 12 16:21:44 2013 -0500
+
+    before fixing the station bug
+
+commit 273f6e06a889aa98a2ae3121479e6b7b240bdc1c
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Thu Dec 12 01:13:30 2013 -0500
+
+    backup before going home
+
+commit 3d6dc4a91720d0d5bb5ac1a100ffc019a5f9b743
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Wed Dec 11 22:23:13 2013 -0500
+
+    back before final intergration.
+
+commit 604932e9f4c0b21a9c35366af1d2ec639b8d130d
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Dec 6 16:17:20 2013 -0500
+
+    create junit test case for train controller
+
+commit 94139258010e2ca40189d89c56bba5646710b656
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Fri Nov 22 01:39:05 2013 -0500
+
+    add train controller ui  testing functions
+
+commit 44b553fb35de8dabfaecc22bf1477766fd203b5a
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Fri Nov 22 00:30:54 2013 -0500
+
+    fix overspeed bug
+
+
+
+commit 604932e9f4c0b21a9c35366af1d2ec639b8d130d
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Dec 6 16:17:20 2013 -0500
+
+    create junit test case for train controller
+
+commit 94139258010e2ca40189d89c56bba5646710b656
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Fri Nov 22 01:39:05 2013 -0500
+
+    add train controller ui  testing functions
+
+commit 44b553fb35de8dabfaecc22bf1477766fd203b5a
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Fri Nov 22 00:30:54 2013 -0500
+
+    fix overspeed bug
+
+
+commit 278c7880e021a51d1b50e1f78af5a7b21cfcee9f
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Wed Nov 20 18:27:16 2013 -0500
+
+    swicth changed
+
+commit ae000c36adaf47879159e3634a272418f84ba5e8
+Author: hjy <the398355565@gmail.com>
+Date:   Tue Nov 19 21:18:26 2013 -0500
+
+    Delete TrainControllerModel.java
+
+commit edda30710e2fa79f4142b6fd1966412b0c4dbc05
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Tue Nov 19 20:54:03 2013 -0500
+
+    crossing changed
+
+commit dbe37c50a77da82273e4d2fa1d121313b0180832
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Tue Nov 19 15:20:32 2013 -0500
+
+    finished_integration
+
+commit 3c198bcab1b85f34dcd854000674da5e06f38e22
+Author: Richthofen-Danchen <huangdanchen@gmail.com>
+Date:   Tue Nov 19 14:59:35 2013 -0500
+
+    Danchen's update of LinkedBlock and removal of TrackModelUI
+
+commit 81e6d6edfb496967c608d26e2738ce0d9833b62d
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Tue Nov 19 14:48:38 2013 -0500
+
+    compiled
+
+commit bab4b83acbdc2ce74b6e121dfa7016286b89be62
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Tue Nov 19 14:24:38 2013 -0500
+
+    integration
+
+commit ad6049a3f456869b589669c0f7aa846b8f415d5e
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Tue Nov 19 13:09:23 2013 -0500
+
+    linked block updated
+
+commit 56c463c660d3bf56439902b0e8e32baf12c99741
+Author: Richthofen-Danchen <huangdanchen@gmail.com>
+Date:   Mon Nov 18 23:44:04 2013 -0500
+
+    Update 'LinkedBlock.java' with track layout by Danchen
+
+commit 00bff24f0d0a5690d5021b1157b5d796418b8743
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sun Nov 17 17:39:41 2013 -0500
+
+    minor fix
+
+commit f1f5eb37b6419864755f18df12cc2e560302f281
+Author: Danchen Huang <dah106@be-wireless-pittnet-150-212-8-102.wireless.pitt.edu>
+Date:   Sun Nov 17 17:35:02 2013 -0500
+
+    update Track_Model
+
+commit cc9db9589326b88e9b543fc89691cc844867feb3
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sun Nov 17 17:29:38 2013 -0500
+
+    minor_change
+
+commit 61582c6c2632523c0eeea7d6110d6043f64661a8
+Author: Danchen Huang <dah106@be-wireless-pittnet-150-212-8-102.wireless.pitt.edu>
+Date:   Sun Nov 17 16:36:07 2013 -0500
+
+    add Track_Model.java
+
+commit d20b1f59617406058fe1d3ae73093213e32fecf8
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sun Nov 17 14:29:46 2013 -0500
+
+    track_status added
+
+commit 001be01518841e50edf97baf5c416663b96e5ed3
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sun Nov 17 14:28:43 2013 -0500
+
+    package changed
+
+commit 5c2e7b685727fcb4aa465434a498bd9b25e82668
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sun Nov 17 14:19:55 2013 -0500
+
+    added subsyetem prototype(Track controller&model)
+
+commit 747c5caa76ca58cc7f9f29631ced6bdf419dfd60
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Wed Nov 13 01:04:40 2013 -0500
+
+    add jar file
+
+commit ccb0687fe2229b39cf7287aded09cf032c81efad
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Wed Nov 13 00:36:24 2013 -0500
+
+    update for train controller prototype
+
+commit 80307f7d995b395d611f8b7794d5ee28f5e65f4a
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Wed Nov 13 00:35:20 2013 -0500
+
+    update train controller prototype
+
+commit 2aeb009a42932bd01d2af4df42919c7caf0d2800
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Nov 8 17:00:52 2013 -0500
+
+    add method to train controller
+
+commit cd39cb636eccc07b6e470b43024e38bcad7eb60a
+Author: hjy <the398355565@gmail.com>
+Date:   Fri Nov 8 15:53:37 2013 -0500
+
+    Update README.md
+
+commit 7fcc4244dfdf7e6f778af035e05e597a58dc1902
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Nov 8 15:52:43 2013 -0500
+
+    mv train-related files to another project
+
+commit eba1d9043bd2aff2be82bbbd295ea926f84fbc5a
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Nov 8 15:46:36 2013 -0500
+
+    add train mode;
+
+commit 7fd0b4154003ef27bdd22d7b5e7e1ec15fde5fe1
+Merge: 8b3f3b7 6af8950
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Nov 8 15:44:56 2013 -0500
+
+    Merge branch 'master' of https://github.com/PittCOE1186/COE1186FinalProject
+
+commit 8b3f3b7b9d6c757f02afe356cd36a5c475f90f13
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Nov 8 15:44:36 2013 -0500
+
+    add train model interface
+
+commit 6af8950e18535484a27e0f9ea0ac3aaab701183b
+Author: hjy <the398355565@gmail.com>
+Date:   Fri Nov 8 01:29:47 2013 -0500
+
+    Delete .gitignore (junyangs-MacBook-Pro's conflicted copy 2013-11-08)
+
+commit 551edae96fc2bc96c2349f1638c13b2f5958e3e6
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Nov 8 01:25:21 2013 -0500
+
+    rm useless
+
+commit 619ee29e22f43179c2676d2107c887ff6c2ecbaa
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Nov 8 01:22:26 2013 -0500
+
+    add design documentation
+
+commit 7bc8709e29f63cc362fdfef68a40f856f2aa1d04
+Merge: f110f21 e485602
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Fri Nov 8 00:49:10 2013 -0500
+
+    Merge branch 'master' of https://github.com/PittCOE1186/COE1186FinalProject
+
+commit f110f21f7d1e5e084fbad5d70ff0a25da20670de
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Fri Nov 8 00:47:03 2013 -0500
+
+    added files
+
+commit e485602e0396b29ec9d1e08830238574b090c697
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Thu Nov 7 12:29:35 2013 -0500
+
+    work_schedule
+    
+    great job Sam.
+
+commit 8608bea202c7a8f62303117df238c54a92914531
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Thu Oct 31 20:20:54 2013 -0400
+
+    updated_design_review
+
+commit 59ebbee3420fab082f279295d97e703bec39ca12
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Thu Oct 31 20:16:32 2013 -0400
+
+    updated
+
+commit 158dbcaef21be23bc46e5e88f9ff642778184b29
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Thu Oct 31 19:43:34 2013 -0400
+
+    add train controller review
+
+commit b30d6eeb19c1fb064f5cb341fd4cb40ceb78ab26
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Thu Oct 31 18:01:56 2013 -0400
+
+    final_version
+
+commit 74c74e8c258bce934614e553caed78351f11a4a3
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Thu Oct 31 17:40:59 2013 -0400
+
+    revised_version
+
+commit 807db212c185841da52ccd158404ae5419562446
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Thu Oct 31 17:01:32 2013 -0400
+
+    put_everything_together
+
+commit 8896285aaa6921aaed7c8542615318a324375071
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Thu Oct 31 16:45:28 2013 -0400
+
+    MBO
+
+commit 05dd33e726abbf8078b8193424c408e87f1f0694
+Author: Alec Brace <adb96@pitt.edu>
+Date:   Thu Oct 31 14:15:01 2013 -0400
+
+    add CTC Design ppt
+
+commit 008b9d491f5c8592f5c1b85930e0bd348ece21a1
+Author: Danchen Huang <dah106@Danchens-MacBook-Air-2.local>
+Date:   Wed Oct 30 23:12:12 2013 -0400
+
+    Track_Model_Design_Review
+
+commit 8627b022ec3ff1e17f2e39a67aa748272624b63b
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Wed Oct 30 10:30:03 2013 -0400
+
+    Track_controller_ppt
+
+commit 6856164b1ed47835eebcfcf9cdcbf75f01b67b0d
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Tue Oct 29 23:24:28 2013 -0400
+
+    add a new folder
+    
+    new folder named Design_Review was added, and the PPT was moved into
+    the folder
+
+commit 3a0fb7b8d1d81d67432357e7d7cf4cdd8b0e4fcf
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Oct 29 21:29:21 2013 -0400
+
+    bug fixed
+
+commit 7111bb35fa46534fde9a12fd97b609191d937b81
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Oct 29 21:25:51 2013 -0400
+
+    1
+
+commit 9c03294194ed001bffd0da870f151386e7f1ff66
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Oct 29 20:32:23 2013 -0400
+
+    design review ppt
+
+commit eaeab64194997f7f332c2718531e7092e86609ec
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Oct 29 20:29:17 2013 -0400
+
+    design review ppt
+
+commit d0c30e1bb06bef4ed90528987c09a28b6c45d819
+Merge: 5736934 562aa16
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Oct 29 20:08:37 2013 -0400
+
+    Merge branch 'master' of https://github.com/PittCOE1186/COE1186FinalProject
+    
+    Conflicts:
+    	TrainSystemSimulation/src/trainsystemsimulation/TrainModel.java
+
+commit 5736934d18ca45d2985ead4db61ab9bef4e37f68
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Oct 29 19:47:22 2013 -0400
+
+    before
+
+commit b2be2067b5222d240bd3419fca29c3ce2e9171ef
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Oct 29 19:14:24 2013 -0400
+
+    before pull
+
+commit 562aa16bc47e6462620c0ddc9cd67eb3c64c41a2
+Author: zpiekut <zpiekut864@comcast.net>
+Date:   Mon Oct 28 20:50:53 2013 -0400
+
+    Error fix
+
+commit ddab3a1b4ad10c1e59b1966cede7b1378b9d3017
+Author: zpiekut <zpiekut864@comcast.net>
+Date:   Mon Oct 28 19:26:50 2013 -0400
+
+    More train model updates
+
+commit fb680f17295202599250dafcd1c99c803acd2e1a
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Mon Oct 28 10:58:34 2013 -0400
+
+    close#1
+
+commit bc5496d92bbf325962fbfb1c50e169a97ab7672b
+Author: zpiekut <zpiekut864@comcast.net>
+Date:   Sun Oct 27 22:15:26 2013 -0400
+
+    completed train model
+
+commit ae13ac248a4e4a7d39c1ff2045c109e7868ccd0e
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Tue Oct 15 13:24:52 2013 -0400
+
+    diagram of oct. 11
+
+commit 75d370bce6f46d87008a6abcf4d85bc514de7d33
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Oct 11 18:00:20 2013 -0400
+
+    update
+
+commit 80c6630a0cdaada03db55640e94dbd2a12e716ae
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Oct 11 17:24:40 2013 -0400
+
+    solve conflict
+
+commit c53fd60684c33056d683c381d1d323c340334980
+Merge: b8e8abf 5f2dfda
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Oct 11 17:08:00 2013 -0400
+
+    add code for ctc observer2
+
+commit b8e8abfa321e5ef3cfd7b4a6430b89e1a150b5e9
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Oct 11 17:06:26 2013 -0400
+
+    add code for ctc observer
+
+commit c1ac8479624df91068f4ff364d748a4fbe792830
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Thu Oct 10 18:50:10 2013 -0400
+
+    create class for everyone
+
+commit 5f2dfdafdbaf1fe0f76e113f4453570ef9592fc9
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Fri Oct 4 16:51:35 2013 -0400
+
+    trivial
+
+commit dec191c554e86098180e27909699825bf1a8d390
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Oct 4 16:45:50 2013 -0400
+
+    add track files ui
+
+commit f48f07be86c1adee02dd42d07b6433db21c1d66a
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Oct 4 16:36:43 2013 -0400
+
+    add track files
+
+commit 7d7b93208b5732085310b33a21e7b07b2e788383
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Fri Oct 4 11:03:58 2013 -0400
+
+    simple change on the ui
+
+commit 685e89699132ac250ef9f7be2e43dd6cb6e32ee7
+Author: junyang <junyang@junyang-pc>
+Date:   Thu Oct 3 23:14:31 2013 -0400
+
+    slight update
+
+commit 8de812213e7caeba89c98355967037ec3f4c0b14
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Thu Oct 3 21:34:12 2013 -0400
+
+    update
+
+commit 6d5c7be56ab9bd9ef4f7b9136c89a3e0b413606f
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Thu Oct 3 21:17:37 2013 -0400
+
+    create project in java
+
+commit 4ed59f3cd5b827dc42ada2fb6f75c7888c1756c7
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Thu Oct 3 20:08:24 2013 -0400
+
+    coding convension
+
+commit 9cc6e47e0fddf775ed406249919370bf52189f3b
+Author: sdsmall <sds62@pitt.edu>
+Date:   Thu Oct 3 13:51:07 2013 -0400
+
+    Revise MBO communication parameters (only communicates with office)
+
+commit 12c55fc29242ce6b0747ba3b24fc6715b29c2b27
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Thu Oct 3 12:59:25 2013 -0400
+
+    add train model interface. empty-implmemtation
+
+commit 001131d18ffbb820ad39e1fb067d10815ed3474e
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Thu Oct 3 11:48:31 2013 -0400
+
+    update by junyang
+
+commit d50b8c812ddec5f2175a198ffec55a35f0a38514
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Wed Oct 2 00:44:39 2013 -0400
+
+    add observer pattern file
+
+commit 25a71363d0678df5daf6079a552b3bb8852b4a83
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Oct 1 18:19:30 2013 -0400
+
+    push train srs for zach
+
+commit 48d405590b19c19ae4eb981da90e69450455bb8b
+Author: sdsmall <sds62@pitt.edu>
+Date:   Tue Oct 1 15:14:28 2013 -0400
+
+    Update MBO SRS
+
+commit cc23a990e064df7a5e0446f296c1ed7c8270b67f
+Author: sdsmall <sds62@pitt.edu>
+Date:   Tue Oct 1 15:12:08 2013 -0400
+
+    Create MBO SRS
+
+commit 3fca32fd71b53c524e472db0e5f3265533b1b8eb
+Author: sdsmall <sds62@pitt.edu>
+Date:   Tue Oct 1 15:09:55 2013 -0400
+
+    Delete MBO_SRS.docx
+
+commit 18f43c4c9d4a7b3cbaa5e3ab27f7075104e05db3
+Author: Danchen Huang <dah106@be-wireless-pittnet-150-212-9-104.wireless.pitt.edu>
+Date:   Sun Sep 29 19:23:39 2013 -0400
+
+    Updating SRS template by Danchen
+
+commit e44f9f323230a5e0fff4a667023c4308c09fa2d1
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sun Sep 29 19:11:27 2013 -0400
+
+    change in the SRS track_controller
+
+commit 83de792ac4ddb72475b0fa407b8776f42559e9c0
+Author: Junyang huang <the398355565@gmail.com>
+Date:   Sun Sep 29 12:11:39 2013 -0400
+
+    update train controller srs
+
+commit 753da8e98a6709cb523af05fc889d4263ad4cfe9
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sat Sep 28 23:14:49 2013 -0400
+
+    UML of the SRS
+    
+    Every one please add your section
+
+commit 1d730b89d7eda28bdfb3084234eeb6f309cb1876
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sat Sep 28 23:08:13 2013 -0400
+
+    minor change
+
+commit de3db4e8ea4f5bbc309620db2b71314b8007c8dd
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sat Sep 28 23:01:55 2013 -0400
+
+    deleted
+
+commit 64e7ff470e1d3bfe7153a3b3cbf6ed95ba5cd7e0
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sat Sep 28 23:01:02 2013 -0400
+
+    Added Track_Controller System specification
+
+commit 27480d2299dd4585547899b86813440d097b9e2b
+Merge: ea080ba ae55bde
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sat Sep 28 20:35:53 2013 -0400
+
+    Merge branch 'master' of https://github.com/PittCOE1186/COE1186FinalProject
+    
+    "just pull it""
+
+commit ea080baf68e44e7d645b28a3fb558ea69a4e9ae1
+Author: fangxuke19 <fangxuke19@gmail.com>
+Date:   Sat Sep 28 20:34:54 2013 -0400
+
+    The interaction between the different modules
+
+commit ae55bdedc96e3c729c0765a385592525f118ed36
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Sat Sep 28 05:15:28 2013 -0400
+
+    train controller ui slight improvement
+
+commit 37c7b4f9b3080826a0e762418a34d058dcce6311
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Sat Sep 28 04:45:50 2013 -0400
+
+    finish train controller prototype
+
+commit 6dc5bab8b3b50f14c573a3972d8b0fb990665fdf
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Sep 27 19:21:38 2013 -0400
+
+    train controller independent 1
+
+commit 185e4585494129309256b1d8db5f6e60d33271b0
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Sep 27 19:13:07 2013 -0400
+
+    defect tracking draf
+
+commit 671b6e1ac9b9fdad75ca51f7bf1a272c91173ff8
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Sep 27 16:23:10 2013 -0400
+
+    better origanization
+
+commit bc21d23d54053051d8bc96994f145e5ffb2f25cc
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Sep 27 15:25:33 2013 -0400
+
+    organize files better
+
+commit ee01d96cc7408ff9ad410add22874a9004a31c60
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Sep 27 15:24:37 2013 -0400
+
+    organize files better
+
+commit 39d408daedc025cb2b85a63b6f25c54350adcd13
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Fri Sep 27 11:51:58 2013 -0400
+
+    add train controller test file
+
+commit dccae94ef6a23844d4005bdf6a979849b28641df
+Author: zpiekut <zpiekut864@comcast.net>
+Date:   Thu Sep 26 19:48:02 2013 -0400
+
+    Update TrainModelSRS.txt
+
+commit ef0803b488237821659b2be3c2be3831d86ea498
+Author: hjy <the398355565@gmail.com>
+Date:   Thu Sep 26 18:41:52 2013 -0400
+
+    Update README.md
+    
+    I hate markdown.
+
+commit eb4082bc4f63de067283e805e47678d8544b785d
+Author: hjy <the398355565@gmail.com>
+Date:   Thu Sep 26 18:39:52 2013 -0400
+
+    Update README.md
+    
+    simple git tutorial
+
+commit 0e9e8db847e429c45706d4d204c66c19fc634fb1
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Wed Sep 25 23:18:29 2013 -0400
+
+    half way on the UI prototype
+
+commit f290f500491f9c5dc1315e572cbcc2b20e82d09f
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Wed Sep 25 21:37:53 2013 -0400
+
+    half way on the ui
+
+commit 1083972739df27acca9d68308c2985bf4cb188c6
+Author: Danchen Huang <dah106@li-wireless-pittnet-150-212-31-238.wireless.pitt.edu>
+Date:   Wed Sep 25 16:26:13 2013 -0400
+
+    Add track model srs
+
+commit e6392cdafbe9e80ba1abf378e5d9ee9554f67fc8
+Author: fangxuke19 <xukefang@be2-wireless-pittnet-60-195.wireless.pitt.edu>
+Date:   Tue Sep 24 19:56:41 2013 -0400
+
+    change the name
+
+commit 6a2e90bd3be4a54b219c26765c6fd3fb75e21431
+Author: fangxuke19 <xukefang@be2-wireless-pittnet-60-195.wireless.pitt.edu>
+Date:   Tue Sep 24 19:55:28 2013 -0400
+
+    Train_Conroller
+
+commit f7abc766c6491ec86332f6d5e367449223d202ed
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Tue Sep 24 19:48:34 2013 -0400
+
+    rm useless file
+
+commit b969a29b12af687aa6f3192c6a079093b9b94bfc
+Merge: 5867be2 ae3ae0e
+Author: Alec Brace <adb96@pitt.edu>
+Date:   Tue Sep 24 19:33:25 2013 -0400
+
+    Merge branch 'master' of https://github.com/PittCOE1186/COE1186FinalProject
+
+commit 5867be25b4621d92ab302f63cfb922e22e0800bb
+Author: Alec Brace <adb96@pitt.edu>
+Date:   Tue Sep 24 19:32:53 2013 -0400
+
+    Add SRS of office
+
+commit ae3ae0ed195b38671a02be0ec60fbe9a61639b6a
+Author: Zachary Piekut <zpiekut864@comcast.net>
+Date:   Tue Sep 24 19:31:26 2013 -0400
+
+    Add train model srs
+
+commit 1bd5a0ca5c8852dcfd999c121470431e5e6fca44
+Author: fangxuke19 <xukefang@be2-wireless-pittnet-60-195.wireless.pitt.edu>
+Date:   Tue Sep 24 18:56:09 2013 -0400
+
+    Track_Control_SRS
+
+commit 43a5182c8814d8d1f000e15bae7813eb1765ac3e
+Author: Junyang Huang <huangjunyang47@gmail.com>
+Date:   Sun Sep 22 22:54:06 2013 -0400
+
+    train controller srs
+
+commit d54ef176efa7ab096000d8939c93e1dc5a775363
+Author: Junyang Huang <workingAccount@be-wireless-pittnet-150-212-78-224.wireless.pitt.edu>
+Date:   Thu Sep 19 18:09:45 2013 -0400
+
+    a initial prototype
+
+commit 2cb6423c38672f8335fcf4b00737730768625222
+Author: hjy <the398355565@gmail.com>
+Date:   Thu Sep 12 16:42:45 2013 -0700
+
+    Initial commit
